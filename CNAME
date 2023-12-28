@@ -1,2 +1,1 @@
-asdasas12.zipcpu.com
-cepet-kaya.github.io.
+dig _github-pages-challenge-cepet-kaya.zipcpu.com +nostats +nocomments +nocmd TXT
